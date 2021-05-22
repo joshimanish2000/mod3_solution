@@ -1,0 +1,38 @@
+header{
+	border: 2px solid black;
+}
+
+.nav-item{
+	border-top: 2px solid black;
+	text-align: center;
+	
+
+}
+
+#main_content h1{
+	margin-top: 4px;
+}
+
+#Beef, #Chicken, #Sushi{
+	background-color: gray; 
+	border: 2px black solid;
+	height: 1000px;
+	margin-top: 4px;
+}
+
+.navbar-toggler{
+	margin-bottom: 8px;
+	border: 2px solid black !important;
+}
+
+.nav-link:hover{
+	background-color: gray;
+}
+
+.active{
+	background-color: gray;
+}
+
+.navbar-nav{
+	border-top: 4px;
+}
